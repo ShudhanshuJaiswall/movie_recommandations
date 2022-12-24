@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d4cb7e6d-5ba7-4e39-b21c-813095f6858f/AppServices/subscriptions/d4cb7e6d-5ba7-4e39-b21c-813095f6858f/resourceGroups/learn-706246fb-9daa-4373-9fd3-62ab52adad81/providers/Microsoft.Web/sites/movie-recommandations",
+    "appService.deploySubpath": "."
+}
